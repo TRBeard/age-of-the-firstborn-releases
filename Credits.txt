@@ -1,0 +1,22 @@
+Ealendril Der Dunkle:	Ringhero system
+Caluadan: 		Lorien Warrior, Archer, Spearman, Rider Textures
+Nertea:			Dol Amroth Knights, Morthond Bowmen, Pelargir Spearmen, Lossarnach Axemen, Ringlo Vale Footmen, Dol Amroth Swordsmen
+Elven Alliance Mod:	Lindon Banner Textures, Gil-galad Model, Lothlorien Fletcher
+Aka Alien Infiltrator:	Cirdan Palantir Image
+Luh Koala: 		Elven Banner
+Irene Hawnetyne: 	Logo, Icon, Umbar faction image and captureflag
+MatttheLegoman: 	Shellmap
+xxxMr. Xxxx: 		Haradrim Raider and Easterling Warrior
+Clement: 		Rhun Riders
+Dark Lord: 		2D Art, Maps
+RoR: 			Modelling
+Elric Hawnetyne:        Website
+2.02 Project:		Widescreen Conversion, and Maps
+Pasidon:		Minas Ithil Map
+
+;Eldarion:		Lindon Warrior, Archer, Spearman, Knight, Gil-galad's Guard Textures
+
+
+
+
+
